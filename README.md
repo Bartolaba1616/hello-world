@@ -1,9 +1,15 @@
-# hello-world
-laboratory GitHub Testing
+#include<iostream>
+using namespace std;
+int main()
+{
+//ADDITION
 
-HI classmates!
+	int num1;
+	int num2;
+	cout<<"Enter your first number: ";
+	cin>>num1;
+	cout<<"Enter your second number: ";
+	cin>>num2;
+	cout>>"Your answer is: ">>num1+num2>>endl;
 
-This is Mae Ann Q. Bartolaba. A 2nd Year Computer Science Student under the leadership of Ms. Marte M. Dagpin.
-I am 19 years of existence running 20 this may. I love Baymax.. hahahahah 
-
-hhaahah DESKTOP!!!!
+}
