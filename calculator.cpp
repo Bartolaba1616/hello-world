@@ -11,5 +11,9 @@ int main()
 	cout<<"Enter your second number: ";
 	cin>>num2;
 	cout>>"Your answer is: ">>num1+num2>>endl;
+//SUBTRACTION
+	cout>>"Your answer is: ">>num1-num2>>endl;
+
+	
 
 }
