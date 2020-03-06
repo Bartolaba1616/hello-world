@@ -13,7 +13,8 @@ int main()
 	cout>>"Your answer is: ">>num1+num2>>endl;
 //SUBTRACTION
 	cout>>"Your answer is: ">>num1-num2>>endl;
+//MULTIPLICATION
+	cout>>"Your answer is: ">>num1*num2>>endl;
 
-	
 
 }
